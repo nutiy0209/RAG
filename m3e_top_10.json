@@ -1,0 +1,478 @@
+[
+    {
+        "question": "“前排座椅通风”的相关内容在第几页？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_116",
+            "page_252",
+            "page_115",
+            "page_114",
+            "page_117",
+            "page_118",
+            "page_52",
+            "page_251",
+            "page_249",
+            "page_243"
+        ]
+    },
+    {
+        "question": "\"关于车辆的儿童安全座椅固定装置，在哪一页可以找到相关内容？\"",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_122",
+            "page_125",
+            "page_123",
+            "page_124",
+            "page_29",
+            "page_107",
+            "page_126",
+            "page_99",
+            "page_106",
+            "page_114"
+        ]
+    },
+    {
+        "question": "“打开前机舱盖”的相关信息在第几页？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_6",
+            "page_307",
+            "page_308",
+            "page_58",
+            "page_104",
+            "page_252",
+            "page_56",
+            "page_35",
+            "page_313",
+            "page_31"
+        ]
+    },
+    {
+        "question": "“打开前机舱盖”这个操作在哪一页？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_307",
+            "page_6",
+            "page_308",
+            "page_58",
+            "page_56",
+            "page_30",
+            "page_313",
+            "page_252",
+            "page_32",
+            "page_66"
+        ]
+    },
+    {
+        "question": "“查看行车记录仪视频”这一项内容在第几页？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_275",
+            "page_276",
+            "page_278",
+            "page_274",
+            "page_277",
+            "page_6",
+            "page_152",
+            "page_265",
+            "page_3",
+            "page_61"
+        ]
+    },
+    {
+        "question": "请问Lynk&Co领克汽车的事件数据记录系统（EDR）主要记录哪些信息？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_12",
+            "page_169",
+            "page_352",
+            "page_14",
+            "page_3",
+            "page_283",
+            "page_1",
+            "page_281",
+            "page_320",
+            "page_170"
+        ]
+    },
+    {
+        "question": "问题：事件数据记录系统（EDR）中的数据是否可以被黑客利用进行恶意攻击？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_12",
+            "page_211",
+            "page_210",
+            "page_352",
+            "page_214",
+            "page_212",
+            "page_205",
+            "page_20",
+            "page_98",
+            "page_260"
+        ]
+    },
+    {
+        "question": "问题：在国家环保法要求下，哪些情况下需要对车辆进行报废处理？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_14",
+            "page_334",
+            "page_321",
+            "page_164",
+            "page_333",
+            "page_318",
+            "page_317",
+            "page_316",
+            "page_18",
+            "page_315"
+        ]
+    },
+    {
+        "question": "请问，如果车辆报废后，原车主是否还能使用该车辆的智能互联服务？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_14",
+            "page_191",
+            "page_185",
+            "page_334",
+            "page_283",
+            "page_272",
+            "page_184",
+            "page_192",
+            "page_215",
+            "page_187"
+        ]
+    },
+    {
+        "question": "如何确保用车前的准备工作万无一失？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_18",
+            "page_15",
+            "page_17",
+            "page_49",
+            "page_66",
+            "page_65",
+            "page_22",
+            "page_24",
+            "page_64",
+            "page_3"
+        ]
+    },
+    {
+        "question": "装载货物时，车内有哪些储物空间可以利用？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_24",
+            "page_26",
+            "page_22",
+            "page_21",
+            "page_27",
+            "page_29",
+            "page_31",
+            "page_36",
+            "page_23",
+            "page_25"
+        ]
+    },
+    {
+        "question": "请问车辆手套箱的容量大小是多少？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_25",
+            "page_23",
+            "page_28",
+            "page_24",
+            "page_22",
+            "page_349",
+            "page_26",
+            "page_27",
+            "page_21",
+            "page_18"
+        ]
+    },
+    {
+        "question": "如何合理安排前排的储物空间以提高实用性？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_26",
+            "page_24",
+            "page_22",
+            "page_27",
+            "page_21",
+            "page_114",
+            "page_29",
+            "page_54",
+            "page_23",
+            "page_115"
+        ]
+    },
+    {
+        "question": "请问车辆手套箱的容量大小是多少？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_25",
+            "page_23",
+            "page_28",
+            "page_24",
+            "page_22",
+            "page_349",
+            "page_26",
+            "page_27",
+            "page_21",
+            "page_18"
+        ]
+    },
+    {
+        "question": "如何正确使用前排座椅靠背储物袋？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_26",
+            "page_24",
+            "page_27",
+            "page_22",
+            "page_21",
+            "page_115",
+            "page_29",
+            "page_53",
+            "page_54",
+            "page_114"
+        ]
+    },
+    {
+        "question": "请问，如果后排中央扶手和杯托被占用，驾驶员应该如何放置饮料？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_26",
+            "page_24",
+            "page_27",
+            "page_22",
+            "page_29",
+            "page_335",
+            "page_101",
+            "page_119",
+            "page_23",
+            "page_334"
+        ]
+    },
+    {
+        "question": "如何通过手机验证码解锁手套箱？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_28",
+            "page_23",
+            "page_25",
+            "page_337",
+            "page_30",
+            "page_335",
+            "page_33",
+            "page_135",
+            "page_41",
+            "page_43"
+        ]
+    },
+    {
+        "question": "问题：如果手套箱被锁止了，但是忘记了密码，应该怎么办？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_28",
+            "page_337",
+            "page_25",
+            "page_23",
+            "page_335",
+            "page_30",
+            "page_41",
+            "page_303",
+            "page_336",
+            "page_40"
+        ]
+    },
+    {
+        "question": "如何确保尾门在自动打开或关闭过程中安全停止？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_30",
+            "page_31",
+            "page_32",
+            "page_335",
+            "page_35",
+            "page_109",
+            "page_3",
+            "page_111",
+            "page_33"
+        ]
+    },
+    {
+        "question": "尾门自动打开/关闭的机制是如何感应障碍物的？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_30",
+            "page_31",
+            "page_35",
+            "page_33",
+            "page_32",
+            "page_3",
+            "page_215",
+            "page_335",
+            "page_44"
+        ]
+    },
+    {
+        "question": "如何确保尾门在关闭时安全可靠？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_31",
+            "page_30",
+            "page_32",
+            "page_335",
+            "page_3",
+            "page_107",
+            "page_35",
+            "page_109",
+            "page_111"
+        ]
+    },
+    {
+        "question": "尾门在关闭过程中如果遇到障碍物会怎样反应？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_31",
+            "page_30",
+            "page_35",
+            "page_32",
+            "page_33",
+            "page_3",
+            "page_335",
+            "page_23",
+            "page_25"
+        ]
+    },
+    {
+        "question": "如何确保电动尾门在运动过程中不会伤及人员或障碍物？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_31",
+            "page_30",
+            "page_304",
+            "page_3",
+            "page_122",
+            "page_287",
+            "page_343",
+            "page_107",
+            "page_335"
+        ]
+    },
+    {
+        "question": "问题：如果尾门在关闭过程中触碰到障碍物，那么尾门会自动关闭到哪个位置？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_34",
+            "page_31",
+            "page_30",
+            "page_32",
+            "page_35",
+            "page_3",
+            "page_46",
+            "page_33",
+            "page_44",
+            "page_335"
+        ]
+    },
+    {
+        "question": "如何确保在装载货物时汽车的安全性？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_21",
+            "page_26",
+            "page_29",
+            "page_28",
+            "page_23",
+            "page_25",
+            "page_34",
+            "page_27",
+            "page_24",
+            "page_31"
+        ]
+    },
+    {
+        "question": "请问这辆正在装载货物的汽车最多可以装载多少立方米的货物？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_21",
+            "page_36",
+            "page_24",
+            "page_26",
+            "page_22",
+            "page_19",
+            "page_31",
+            "page_27",
+            "page_349",
+            "page_25"
+        ]
+    },
+    {
+        "question": "如何设置遥控钥匙的靠近解锁远离上锁功能？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_40",
+            "page_41",
+            "page_42",
+            "page_335",
+            "page_44",
+            "page_33",
+            "page_43",
+            "page_281",
+            "page_303",
+            "page_3"
+        ]
+    },
+    {
+        "question": "如何确保遥控钥匙的操作不受干扰？",
+        "answer": "",
+        "reference": "",
+        "references": [
+            "page_335",
+            "page_42",
+            "page_303",
+            "page_40",
+            "page_30",
+            "page_41",
+            "page_304",
+            "page_44",
+            "page_34",
+            "page_141"
+        ]
+    }
+]
